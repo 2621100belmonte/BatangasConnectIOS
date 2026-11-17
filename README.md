@@ -46,3 +46,9 @@
    ```bash
    git clone <your-github-repo-url>
    cd BatangasConnectIOS
+
+ ---
+ 
+ ## 5. Live Interactive iOS App (Expo Go)
+Launch directly on an iPhone via *Expo Go* or preview in your browser:
+https://snack.expo.dev/@2621100belmonte/lipaconnect-ai?platform=ios
